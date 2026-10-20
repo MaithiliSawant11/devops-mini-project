@@ -24,7 +24,7 @@ def home():
       <body>
         <main>
           <h1>DevOps Mini Project</h1>
-          <p>This sample web application is running successfully.</p>
+          <p>Our DevOps pipeline is working successfully.</p>
           <p class="status">Application Status: OK</p>
           <p>Pipeline stages: Code → Test → Docker Build → Verify</p>
         </main>
